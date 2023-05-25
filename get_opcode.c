@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 /**
  * get_opcode - gets the operator function
  * @data_struct: pointer to a queue or stack

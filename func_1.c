@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 /**
  * check_if_num - checks if number
  * @str: char pointer

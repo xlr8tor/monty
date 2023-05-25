@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 /**
 * stacker - sets the format of the data to a stack (LIFO).
 * @stack: ds

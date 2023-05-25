@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 /**
  * init_buffer - init buffer
  * @file_name: file name

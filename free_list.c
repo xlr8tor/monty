@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 /**
  * free_list - free doubly linked list
  * @head: start of list
